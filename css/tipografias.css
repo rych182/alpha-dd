@@ -1,0 +1,149 @@
+@font-face {
+    font-family: 'Aladin';
+    src: url('../webfonts/Aladin-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Amita';
+    src: url('../webfonts/Amita-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Bilbo Swash Caps';
+    src: url('../webfonts/BilboSwashCaps-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Chilanka';
+    src: url('../webfonts/Chilanka-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Courgette';
+    src: url('../webfonts/Courgette-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Delius Swash Caps';
+    src: url('../webfonts/DeliusSwashCaps-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Kaushan Script';
+    src: url('../webfonts/KaushanScript-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Kavivanar';
+    src: url('../webfonts/Kavivanar-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Merienda One';
+    src: url('../webfonts/MeriendaOne-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Permanent Marker';
+    src: url('../webfonts/PermanentMarker-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Princess Sofia';
+    src: url('../webfonts/PrincessSofia-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Quintessential';
+    src: url('../webfonts/Quintessential-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Rancho';
+    src: url('../webfonts/Rancho-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Satisfy';
+    src: url('../webfonts/Satisfy-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'Sofia';
+    src: url('../webfonts/Sofia-Regular.ttf');
+}
+
+h1.Aladin,
+p.Aladin {
+    font-family: 'Aladin', cursive;
+}
+
+h1.Amita,
+p.Amita {
+    font-family: 'Amita', cursive;
+}
+
+h1.BilboSwashCaps,
+p.BilboSwashCaps {
+    font-family: 'Bilbo Swash Caps', cursive;
+}
+
+h1.Chilanka,
+p.Chilanka {
+    font-family: 'Chilanka', cursive;
+}
+
+h1.Courgette,
+p.Courgette {
+    font-family: 'Courgette', cursive;
+}
+
+h1.DeliusSwashCaps,
+p.DeliusSwashCaps {
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+h1.KaushanScript,
+p.KaushanScript {
+    font-family: 'Kaushan Script', cursive;
+}
+
+h1.Kavivanar,
+p.Kavivanar {
+    font-family: 'Kavivanar', cursive;
+}
+
+h1.MeriendaOne,
+p.MeriendaOne {
+    font-family: 'Merienda One', cursive;
+}
+
+h1.PermanentMarker,
+p.PermanentMarker {
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1.PrincessSofia,
+p.PrincessSofia {
+    font-family: 'Princess Sofia', cursive;
+}
+
+h1.Quintessential,
+p.Quintessential {
+    font-family: 'Quintessential', cursive;
+}
+
+h1.Rancho,
+p.Rancho {
+    font-family: 'Rancho', cursive;
+}
+
+h1.Satisfy,
+p.Satisfy {
+    font-family: 'Satisfy', cursive;
+}
+
+h1.Sofia,
+p.Sofia {
+    font-family: 'Sofia', cursive;
+}
