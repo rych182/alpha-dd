@@ -1,3 +1,23 @@
+/*GENERAL STYLES INICIO*/
+
+@font-face {
+    font-family: '';
+    src: url('../fonts/MeriendaOne-Regular.ttf');
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merienda One';
+}
+
+
+/*GENERAL STYLES INICIO*/
+
+
 /*-------------------INICIO NAVBAR*/
 
 .site-header {
