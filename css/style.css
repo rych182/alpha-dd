@@ -1,5 +1,9 @@
 /*GENERAL STYLES INICIO*/
 
+body {
+    background: url('../img/texturas/bright_squares.png');
+}
+
 @font-face {
     font-family: '';
     src: url('../fonts/MeriendaOne-Regular.ttf');
