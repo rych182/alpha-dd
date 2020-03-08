@@ -9,6 +9,16 @@ body {
     src: url('../fonts/MeriendaOne-Regular.ttf');
 }
 
+@font-face {
+    font-family: '';
+    src: url('../fonts/Fondamento-Regular.ttf');
+}
+
+@font-face {
+    font-family: '';
+    src: url('../fonts/Rancho-Regular.ttf');
+}
+
 h1,
 h2,
 h3,
@@ -18,11 +28,24 @@ h6 {
     font-family: 'Merienda One';
 }
 
+p {
+    font-family: 'Rancho';
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Fondamento';
+}
+
 
 /*GENERAL STYLES INICIO*/
 
 
 /*-------------------INICIO NAVBAR*/
+
+.videoJuego {
+    margin-left: 10px;
+}
 
 .site-header {
     background: rgba(90, 71, 116, 0.85)!important;
